@@ -1,0 +1,1 @@
+sudo nmcli connection add type gsm ifname cdc-wdm1 con-name "Mobile Broadband" apn APNNAME1 user ntt password ntt
